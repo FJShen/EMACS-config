@@ -17,3 +17,5 @@
              (other . "stroustrup")))
 
 (setq-default frame-title-format '("%f"))
+
+(global-linum-mode)
